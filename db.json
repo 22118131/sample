@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "hCSJ1rS",
+      "firstName": "raju1111",
+      "lastName": "raja2222",
+      "email": "varma.cga55@gmail.com",
+      "mobile": 1234567890,
+      "salary": 986655
+    },
+    {
+      "id": "0XGwAUD",
+      "firstName": "raju",
+      "lastName": "raja",
+      "email": "raja@123.gmail.com",
+      "mobile": 5645645,
+      "salary": 456456456
+    },
+    {
+      "id": "Req2oh8",
+      "firstName": "z",
+      "lastName": "sdfsdf",
+      "email": "raja@123.gmail.com",
+      "mobile": null,
+      "salary": 5345645
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
